@@ -1,0 +1,11 @@
+1)  Prozesse bekommen alle eine bestimmte Anzahl von Losen zugewiesen und der Prozess-    Scheduler zieht ein Zufallslos, um den nächsten Prozess auszuwählen. Die Aufteilung der  Lose muss nicht gleich sein. Wenn man einem Prozess mehr Lose zuweist, erhöht das seine  relativen Chancen, ausgewählt zu werden.
+
+
+2)  G B A D   C   F   H   E
+    2 5 8 12  16  21  34  55
+
+    2+7+17+29+45+66+100+155=421
+
+    421/8=52,625
+
+3)  Die CPU-Zeit der anderen Prozesse wird verdoppelt.
